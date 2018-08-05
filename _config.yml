@@ -1,14 +1,12 @@
-title: 杨绮
-author: GitHub User
-email: your-email@domain.com
+title: 杨绮的博客
+author: 杨绮
+email: yangalpha@live.cn
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ 欢迎来到杨绮的博客，在这里我会分享自己读书笔记、健身菜单以及其他林林总总。
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
+telegram_username:brucenide 
+github_username:  yangalpha
 rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -27,7 +25,7 @@ rss: rss
 #   instance: example.com
 
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
